@@ -3,7 +3,9 @@
 ## Preguntas de negocio:
 
 ¿Cuál es la evolución de las rentas de Airbnb en CDMX?
+
 ¿Dónde se incrementa el costo por noche?
+
 ¿Existe algún periodo en el tiempo específico donde el promedio por noche se incrementa?
 
 ## Insights encontrados:
