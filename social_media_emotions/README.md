@@ -23,7 +23,7 @@ Facebook and LinkedIn are the least used networks overall, and where the fewest 
 
 Instagram, led by women, mainly generates positive feelings, followed by negative ones.
 
-# INSIGHTS:
+## INSIGHTS:
 
 Women prefer to be on social networks that they enjoy, that provoke positive feelings, and where they can interact.
 
